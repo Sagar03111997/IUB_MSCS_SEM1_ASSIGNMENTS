@@ -1,0 +1,5 @@
+Hello this is an example text file.
+It has lots of words blah blah are you still reading?
+Anyway pretend this is many hundreds of bytes long for the purpose of this example.
+Sincerely,
+The end.
