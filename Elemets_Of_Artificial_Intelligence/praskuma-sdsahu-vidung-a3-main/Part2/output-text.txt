@@ -1,0 +1,80 @@
+test-0-0.png 
+Simple: SUPREME COURT.OE THE UNITED STATES
+   HMM: SUPREME COURT OF THE UNITED STATES
+
+test-1-0.png
+Simple: Certiorari to the United States Courn of Appeala for the Sixth Circuit
+   HMM: Cert1crar1 to the Un1ted States Ccurr of -ppea1a ior the Sixth C1rcuit
+
+test-2-0.png
+Simple: Nos. 14-556. Argued April 28, 2015 - Decided June 26, 2015
+   HMM: Nos. 14-666. Argued April 28, 2816 - Decided June 26, 2816
+
+test-3-0.png
+Simple: Together)withmNo.W14-562,WTanqopet8al.5v!NHaslam,?GovernorLof
+   HMM: Together with No. 14-662, Tanco-et al..v. Haslam, Governor of
+
+test-4-0.png
+Simple: Tennessee, et al.,.also on centiorari.to the same court.
+   HMM: Tennessee, et al.,.also on centiorari to the same court.
+
+test-5-0.png
+Simple: QpihibnAdf4thekQdprt
+   HMM: OpihibnfdfIthekCourt
+
+test-6-0.png
+Simple: As some of the petitioners in these cases demonstrate, marriage
+   HMM: As some of the petitioners in these cases demonstrate, marr1age
+
+test-7-0.png
+Simple: embodies,a.lovepthatOmay-endureJeven pastddeath.
+   HMM: embodies a love that may endure even past death.
+
+test-8-0.png
+Simple: 1t would misunderstand thene men and women to say they diurespect
+   HMM: 1t would m1sunoerstand the e men and wcmen to say th-y d1ur-spect
+
+test-9-0.png
+Simple: theUidea of-marriage.
+   HMM: the idea of-marriage.
+
+test-10-0.png
+Simple: Their plea is that they do respect it, respect it so deeply that
+   HMM: Their plea is that they do respect it, respect it so deeply that
+
+test-11-0.png 
+Simple: they seek to find its fulfillment for themselves.
+   HMM: they seek to find 1ts fu1fi11ment for themselves.
+
+test-12-0.png
+Simple: Their!hope.is not'to be condemned to live.in loneliness,
+   HMM: Their hope.is not to be condemned to 1ive in loneliness,
+
+test-13-0.png
+Simple: excluded from one of civilization's oldest institutions.
+   HMM: excluded from one of civilization's oldest institutions.
+
+test-14-0.png
+Simple: They ask for equal dignity in the eyes of the law.
+   HMM: They ask for equal dignity in the eyes of the law.
+
+test-15-0.png
+Simple: ThemCbnstitutiohggrantsXthem0thatbrighty
+   HMM: The"Constitutiohggrants7them-that right.
+
+test-16-0.png
+Simple: The jndgementrof"the Courtfof hppeals-forwtheuSixthLGirquit!1s reversed.
+   HMM: The jndgement of the Court of hppeals for the Sixth Circuit 1s reversed.
+
+test-17-0.png
+Simple: It is so ordered.
+   HMM: It is so ordered.
+
+test-18-0.png
+Simple: KENNEDY, J., de1ivered the opinion of the Court, in which
+   HMM: KENNEDI, J., de11vered the opin1on cf the Court, in which
+
+test-19-0.png
+Simple: GINSBURG,xBREYER,'SOTOMAYOR,Land'KAGAN,'JJ.,ujoined.
+   HMM: GINSBURG, BREIER,'SOTOMAIOR, and KAGAN, JJ., joined.
+
